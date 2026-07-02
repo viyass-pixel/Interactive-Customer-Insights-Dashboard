@@ -1,13 +1,13 @@
 # Interactive-Customer-Insights-Dashboard
 An interactive Power BI dashboard that analyzes customer purchasing behavior, spending patterns, subscription trends, shipping preferences, and category-wise performance. Built using Power Query, DAX, and interactive visualizations to transform raw retail data into actionable business insights.
 
-# 🛍️ Customer Behavior Analysis Dashboard
+#  Customer Behavior Analysis Dashboard
 
 An end-to-end **Data Analytics** project that analyzes customer shopping behavior to uncover purchasing patterns, customer preferences, and business opportunities. This project combines **Python**, **SQL**, and **Power BI** to transform raw retail data into actionable business insights.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Understanding customer behavior is essential for improving customer satisfaction, increasing sales, and optimizing marketing strategies. This project follows a complete analytics workflow—from data preparation and exploratory analysis to business intelligence visualization and reporting.
 
@@ -15,7 +15,7 @@ The dashboard enables stakeholders to analyze customer demographics, purchase be
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze customer purchasing behavior.
 - Identify high-value customer segments.
@@ -26,7 +26,7 @@ The dashboard enables stakeholders to analyze customer demographics, purchase be
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 - **Python**
   - Pandas
@@ -47,9 +47,9 @@ The dashboard enables stakeholders to analyze customer demographics, purchase be
 
 ---
 
-# 📂 Project Workflow
+#  Project Workflow
 
-## ✅ 1. Data Preparation & Exploratory Data Analysis (Python)
+##  1. Data Preparation & Exploratory Data Analysis (Python)
 
 - Imported the retail customer dataset.
 - Cleaned missing values and duplicate records.
@@ -59,7 +59,7 @@ The dashboard enables stakeholders to analyze customer demographics, purchase be
 
 ---
 
-## ✅ 2. Data Analysis (SQL)
+##  2. Data Analysis (SQL)
 
 Performed business-oriented SQL analysis to answer key questions such as:
 
@@ -73,7 +73,7 @@ Performed business-oriented SQL analysis to answer key questions such as:
 
 ---
 
-## ✅ 3. Visualization & Business Intelligence (Power BI)
+##  3. Visualization & Business Intelligence (Power BI)
 
 Developed an interactive dashboard featuring:
 
@@ -90,41 +90,41 @@ Developed an interactive dashboard featuring:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-- 👥 Total customers analyzed: **3,900**
-- 💰 Average purchase amount: **$59.76**
-- ⭐ Average customer review rating: **3.75 / 5**
-- 👩 Female customers have a slightly higher average purchase amount (**$60.25**) than male customers (**$59.54**).
-- 👟 Footwear has the highest average purchase amount (**$60.26**), while Outerwear has the lowest (**$57.17**).
-- 🚚 Customers using **2-Day Shipping** spend the most on average (**$60.73**), whereas Standard Shipping customers spend the least (**$58.46**).
-- 👕 Clothing contributes the highest overall revenue.
-- 👨 Middle-aged customers represent the largest purchasing segment.
-- 📦 Over **92%** of customers are non-subscribers, indicating an opportunity to improve customer retention.
-
----
-
-## 📈 Dashboard Features
-
-✔ Interactive Filters
-
-✔ Dynamic KPIs
-
-✔ Business Performance Metrics
-
-✔ Customer Segmentation
-
-✔ Revenue Analysis
-
-✔ Purchase Trend Analysis
-
-✔ Category Comparison
-
-✔ Shipping & Payment Insights
+-  Total customers analyzed: **3,900**
+-  Average purchase amount: **$59.76**
+-  Average customer review rating: **3.75 / 5**
+-  Female customers have a slightly higher average purchase amount (**$60.25**) than male customers (**$59.54**).
+-  Footwear has the highest average purchase amount (**$60.26**), while Outerwear has the lowest (**$57.17**).
+-  Customers using **2-Day Shipping** spend the most on average (**$60.73**), whereas Standard Shipping customers spend the least (**$58.46**).
+-  Clothing contributes the highest overall revenue.
+-  Middle-aged customers represent the largest purchasing segment.
+-  Over **92%** of customers are non-subscribers, indicating an opportunity to improve customer retention.
 
 ---
 
-## 📁 Repository Structure
+##  Dashboard Features
+
+ Interactive Filters
+
+ Dynamic KPIs
+
+ Business Performance Metrics
+
+ Customer Segmentation
+
+ Revenue Analysis
+
+ Purchase Trend Analysis
+
+ Category Comparison
+
+ Shipping & Payment Insights
+
+---
+
+##  Repository Structure
 
 ```
 Customer-Behavior-Analysis-PowerBI-Dashboard/
@@ -156,7 +156,7 @@ Customer-Behavior-Analysis-PowerBI-Dashboard/
 
 ---
 
-## 🚀 Business Value
+##  Business Value
 
 This dashboard enables organizations to:
 
@@ -169,19 +169,19 @@ This dashboard enables organizations to:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 > *(Add your Power BI dashboard screenshot here.)*
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Viyass S**
 
-📧 Email: *viyass07@gmail.com*
+ Email: *viyass07@gmail.com*
 
-💼 LinkedIn: *https://www.linkedin.com/in/viyass-s-538943255/?skipRedirect=true*
+ LinkedIn: *https://www.linkedin.com/in/viyass-s-538943255/?skipRedirect=true*
 
 
 
